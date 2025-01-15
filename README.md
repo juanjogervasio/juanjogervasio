@@ -1,10 +1,10 @@
 <p><strong><span style="text-decoration: underline; font-size: medium;">About me:</span></strong></p>
 
-Hello! My name is Juan José Gervasio, I'm a physicist from La Plata, Argentina. I am currently working as a teacher in various chairs 
-at Universidad Nacional de La Plata while finishing my PhD in Mathematical Physics. 
+Hello! My name is Juan José Gervasio, and I'm a physicist from La Plata, Argentina. I am currently working as a teacher in various courses 
+at Universidad Nacional de La Plata while completing my PhD in Mathematical Physics. 
 
-- 👀 I’m interested in Quantum Field Theory and its applications, but also in data science and finance. 
-- 🌱 I’m currently turning from the academia to the industry by improving my skills in Python, SQL, VB and other languajes. 
+- 👀 I’m interested in Quantum Field Theory and its applications, as well as data science and finance. 
+- 🌱 I’m currently transitioning from the academia to the industry by improving my skills in Python, SQL, VB and other languages. 
 - 🫂 I’m passionate about learning and assisting others to do the same! I'm always willing to help. 
 
 <!---
