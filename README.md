@@ -1,6 +1,6 @@
 <p><strong><span style="text-decoration: underline; font-size: medium;">About me:</span></strong></p>
 
-Hello! My name is **Juan José Gervasio**, and I'm a physicist from La Plata, Argentina. I currently work as a university professor at the **Universidad Nacional de La Plata (UNLP)**, where I teach various courses, while also expanding my expertise in **Data Analysis and Sata Science**.
+Hello! My name is **Juan José Gervasio**, and I'm a physicist from La Plata, Argentina. I currently work as a university professor at the **Universidad Nacional de La Plata (UNLP)**, where I teach various courses, while also expanding my expertise in **Data Analysis and Data Science**.
 
 - 🤓 I’m interested in Data Science and Finance, as well as Quantum Field Theory and Fluid Dynamics. 
 - 🌱 I’m currently transitioning from academia to industry, sharpening my skills in Python, SQL, C, and other programming tools.
